@@ -1,4 +1,4 @@
-# :wave: Selam, Ben Yusuf! (hegzabyte)
+# :wave: Selam, Ben Yusuf!
 
 ### :rocket: 17 Yaşında Bir Yazılım Meraklısı (Aspiring Software Developer)
 
@@ -6,7 +6,7 @@ Lise öğrencisiyim ve vaktimin çoğunu kod yazarak, yeni teknolojiler keşfede
 
 ---
 
-### :computer: Nelerle Uğraşıyorum?
+### 🖥️ Nelerle Uğraşıyorum?
 
 *   **C# / .NET WinForms:** Profesyonel görünümlü, veritabanı destekli (SQLite, MS Access) masaüstü otomasyonları geliştiriyorum. (**StockMaster** ve **LibraryMaster** gibi.)
 *   **Python & AI:** Yapay zeka ve görüntü işleme üzerine çalışıyorum. Python ile akıllı sistemler ve veri modelleri kuruyorum.
@@ -14,7 +14,7 @@ Lise öğrencisiyim ve vaktimin çoğunu kod yazarak, yeni teknolojiler keşfede
 
 ---
 
-### :tools: Teknolojiler & Araçlar
+### 🛠️ Teknolojiler & Araçlar
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,14 +23,17 @@ Lise öğrencisiyim ve vaktimin çoğunu kod yazarak, yeni teknolojiler keşfede
 
 ---
 
-### :bar_chart: GitHub İstatistiklerim
+### 📊 GitHub İstatistiklerim
 
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hegzabyte&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hegzabyte&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hegzabyte&show_icons=true&theme=vision-friendly-dark&locale=tr" alt="Yusuf's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegzabyte&layout=compact&theme=vision-friendly-dark&locale=tr" alt="Top Langs" />
+</p>
 
 ---
 
-### :mailbox: Bana Ulaşın
+### 📭 Bana Ulaşın
 *   **GitHub:** [hegzabyte](https://github.com/hegzabyte)
 *   **Hedef:** Her gün daha karmaşık sorunları kodla çözmek!
 
