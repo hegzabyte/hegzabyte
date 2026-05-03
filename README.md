@@ -23,16 +23,6 @@ Lise öğrencisiyim ve vaktimin çoğunu kod yazarak, yeni teknolojiler keşfede
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hegzabyte&show_icons=true&theme=vision-friendly-dark&locale=tr" alt="Yusuf's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegzabyte&layout=compact&theme=vision-friendly-dark&locale=tr" alt="Top Langs" />
-</p>
-
----
-
 ### 📭 Bana Ulaşın
 *   **GitHub:** [hegzabyte](https://github.com/hegzabyte)
 *   **Hedef:** Her gün daha karmaşık sorunları kodla çözmek!
